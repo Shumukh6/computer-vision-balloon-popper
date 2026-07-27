@@ -1,4 +1,4 @@
-# Computer Vision Balloon Popper
+# 🎈 Computer Vision Balloon Popper
 
 An interactive computer vision game that allows users to pop falling balloons using their index finger in real time.
 
@@ -60,3 +60,4 @@ python balloon_popper.py
 This project was created to explore real-time hand tracking and human-computer interaction using computer vision.
 
 It demonstrates how hand landmarks detected from a webcam can be used as interactive controls without requiring a mouse or keyboard.
+
