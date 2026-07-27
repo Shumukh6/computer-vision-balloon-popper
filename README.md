@@ -1,6 +1,4 @@
-# computer-vision-balloon-popper
-Interactive computer vision game controlled by index-finger tracking using MediaPipe and OpenCV.
-# 🎈 Computer Vision Balloon Popper
+# Computer Vision Balloon Popper
 
 An interactive computer vision game that allows users to pop falling balloons using their index finger in real time.
 
